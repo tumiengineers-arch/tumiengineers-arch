@@ -172,6 +172,14 @@ I'm always open to exciting projects, partnerships, and conversations about tech
 
 [📧 Email Me](mailto:tumelo.tsamai@hotmail.com) • [📱 Call Me](tel:+27609145290) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/tumelo-tsamai-a70621357) • [🔍 Explore my repos](https://github.com/tumiengineers-arch?tab=repositories)
 
+## 💬 Quick Chat on WhatsApp
+
+<a href="https://wa.me/27609145290?text=Hi%20Tumelo%2C%20I%27m%20interested%20in%20connecting%20with%20you" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+**Click the WhatsApp icon above to send me a direct message!**
+
 ---
 
 <sub>Last updated: March 2026 | Always building, always learning 🚀</sub>
