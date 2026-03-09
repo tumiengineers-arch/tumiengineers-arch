@@ -150,9 +150,7 @@ WAN modernization solutions with advanced security overlays, failover engineerin
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tumiengineers-arch&show_icons=true&theme=nord&count_private=true&hide_border=true)](https://github.com/tumiengineers-arch)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tumiengineers-arch&layout=compact&theme=nord&hide_border=true)](https://github.com/tumiengineers-arch)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tumiengineers-arch&theme=nord&hide_border=true)](https://github.com/tumiengineers-arch)
 
